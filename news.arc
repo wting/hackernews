@@ -7,7 +7,7 @@
 
 (declare 'atstrings t)
 
-(= this-site*    "My Forum"
+(= this-site*    "Test Forum"
    site-url*     "http://news.yourdomain.com/"
    parent-url*   "http://www.yourdomain.com"
    favicon-url*  ""
